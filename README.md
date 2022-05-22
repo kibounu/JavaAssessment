@@ -8,7 +8,7 @@ By the end of this session, you will be able to:
 - Test the program to verify if it works properly.
 - Prepare the program to handle wrong data format insertion.
  
-*Note:
+**Notes:**
 - Please create your own class(es)/ methods as deem fit, additional attributes/properties can be added in as well
 - Assume that there is no duplicate courses enrolled per student
 
